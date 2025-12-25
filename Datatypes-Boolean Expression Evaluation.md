@@ -31,3 +31,4 @@ print("d:", d)
 <img width="210" height="145" alt="2" src="https://github.com/user-attachments/assets/82d0b157-9d64-417e-9254-cd70ee8d240a" />
 
 ## Result
+Thus The Python Program Executed Properly
