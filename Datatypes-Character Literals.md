@@ -17,3 +17,4 @@ print('a')
 <img width="146" height="105" alt="3" src="https://github.com/user-attachments/assets/5c8d556b-5515-4ebc-820d-ae98b7bd1880" />
 
 ## Result
+Thus The Python Program Executed Properly
